@@ -6,7 +6,7 @@ The russian version of the task can be found in the repository.
 
 ## Contents
 
-1. [Chapter I](#chapter-i) /
+1. [Chapter I](#chapter-i) \
     1.1. [First effort](#part-1-first-effort)  
     1.2. [System research](#part-2-system-research)  
     1.3. [Visual output design for the system research script](#part-3-visual-output-design-for-the-system-research-script)   
